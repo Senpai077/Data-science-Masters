@@ -1,0 +1,23 @@
+Q1: Guido ven rossum is the invintor of  python programming language.
+Q2: Python support danmic programming.
+Q3: yes, python is case sensitive when dealing with identifers.
+Q4: (.py) is the entension of python file.
+Q5: Python is a inerpreted language.
+Q6: A Module, Function body, Class.
+Q7: (#) is used in python to give a single line comment.
+Q8: The function (sys. version ) can help us to find the version of python we are currently working on.
+Q9:  LAMBDA constructor is used to creat  anomoyous function at runtime in python.
+Q10: PIP stands for Prefered Installer Programme.
+Q11: (print) and (input) are some built in functions in python.
+Q12: An identifier in python can have  maximum 79 characters.
+Q13: Easy to understand, Versatility,lots of packages(Library) and popularity are some  major benifits of python.
+Q14: memory in python is managed by a private heap  containing all python objects and data structures. this private heap is managed internally by  python memory manager.
+Q15:  To download pytho on your PC and search www.python.org on your browser . In python site click on Download tab and Download the latest vesion of python.
+         The complete path of python.exe can be added by:
+
+        -Right-clicking This PC and going to Properties.
+        -Clicking on the Advanced system settings in the menu on the left.
+        -Clicking on the Environment Variables button o​n the bottom right.
+        -In the System variables section, selecting the Path variable and clicking on Edit. The next screen will show all the directories that are currently a part of the PATH variable.
+        -Clicking on New and entering Python’s install directory.
+Q16: yes,Indentation in python is very important. 
